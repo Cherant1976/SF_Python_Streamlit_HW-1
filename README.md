@@ -1,7 +1,7 @@
 # <center> Учебный проект курса Python-разработка платформы [Skillfactory](http://skillfactory.ru). </center>
 
 ## Оглавление  
-[1. Описание учебного проекта](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1)   
+[1. Описание учебного проекта](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Описание-учебного-проекта)   
 [2. Используемые формулы для расчётов Кредитного калькулятора](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Используемые-формулы-для-расчётов-Кредитного-калькулятора)  
 [3. Информация о вводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-вводе-данных)  
 [4. Информация о выводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-выводе-данных)  
