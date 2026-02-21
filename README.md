@@ -3,8 +3,8 @@
 ## Оглавление  
 [1. Описание учебного проекта](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1)   
 [2. Используемые формулы для расчётов Кредитного калькулятора](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Используемые-формулы-для-расчётов-Кредитного-калькулятора)  
-[3. Инофрмация о вводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-вводе-данных)  
-[4. Инофрмация о выводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-выводе-данных)
+[3. Информация о вводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-вводе-данных)  
+[4. Информация о выводе данных:](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Информация-о-выводе-данных) 
 [5. Используемые библиотеки python](https://github.com/Cherant1976/SF_Python_Streamlit_HW-1#Используемые-библиотеки-python)    
 
 ### Описание учебного проекта    
